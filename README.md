@@ -58,13 +58,18 @@ The assistant is implemented as an interactive Jupyter Notebook using Python, th
 
 ## Examples 
 ![image](https://github.com/user-attachments/assets/2febedc3-7093-442f-9434-156bda3b3c04)
-This is a general question example 
+
+(fig-1) This is a general question example
+
 ![image](https://github.com/user-attachments/assets/008575f9-369c-4cac-b405-d650852c8bb1)
-This is a bit more specific question 
+
+(fig-2) This is a bit more specific question 
+
 ![image](https://github.com/user-attachments/assets/3a5cc497-1da7-440f-a824-32c5879eaace)
+
 ![image](https://github.com/user-attachments/assets/84b9a45b-ae61-4014-889d-b0a125886898)
 
-More specific example 
+(fig 3 and 4) More specific example 
 
 ## Limitations & Future Directions
 
