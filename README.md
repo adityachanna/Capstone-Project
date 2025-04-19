@@ -5,9 +5,7 @@ This blog post presents my Capstone Project for the 5-day Gen AI Intensive Cours
 ---
 
 ## The Genesis of an Idea
-
-It was a typical day in summer in Delhi when my CA friend Tushar called, frustration evident in his voice. "I've spent three hours trying to find the exact compliance requirements for a project in my internship," he sighed. "The Companies Act is a labyrinth, and I'm tired of getting lost in it."
-
+It was an ordinary summer day in Delhi that my CA friend Tushar phoned, exasperation clear in his tone. "I've spent three hours struggling to locate the precise compliance rules for a project during my internship," he breathed. "The Companies Act is a maze, and I'm fed up wandering in it."
 That conversation sparked my Capstone Project for the 5-day Gen AI Intensive Course with Google (March 31 - April 4, 2025). While others pursued chatbots and content generators, I saw an opportunity to solve a uniquely Indian problem that affects thousands of professionals daily: navigating the behemoth that is the Indian Companies Act, 2013.
 
 ## The Mountainous Challenge: India's Companies Act
@@ -66,15 +64,14 @@ The assistant is implemented as an interactive Jupyter Notebook using Python, th
 - Requires regular updates as the Act is amended.
 
 **Future possibilities:**
-- Integrate with government APIs for real-time compliance updates.
-- Expand coverage to other Indian laws (e.g., GST Act, Income Tax Act).
-- Provide multi-language support for regional access.
+- Integration with government APIs to get real-time compliance status updates.
+- Extend to other Indian legislations (e.g., GST Act, Income Tax Act).
+- Offer multi-language support to facilitate regional access.
 
 ---
 
 ## Impact
-
-By leveraging Gen AI, this project aims to democratize access to legal compliance for Indian businesses and professionals. It reduces the cognitive load of navigating dense legalese, minimizes compliance risks, and empowers users to make informed decisions with confidence.
+By using Gen AI, this initiative wants to make legal compliance accessible to Indian enterprises and professionals. It lessens the mental burden of wading through thick legalese, lessens compliance risk, and enables users to make well-informed decisions with confidence.
 
 ---
 
