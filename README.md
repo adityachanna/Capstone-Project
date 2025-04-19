@@ -1,4 +1,8 @@
+## Overview
 
+This blog post presents my Capstone Project for the 5-day Gen AI Intensive Course with Google (March 31 - April 4, 2025). The challenge was to apply at least three Generative AI (Gen AI) capabilities to a real-world use case, documented in a Kaggle Notebook, with optional blog and video components for bonus points. My project tackles a uniquely Indian challenge: making the Companies Act more accessible and actionable for Chartered Accountants (CAs) and businesses.
+
+---
 
 ## The Genesis of an Idea
 
@@ -25,25 +29,6 @@ Currently, Indian professionals tackle this challenge through:
 I spoke with 15 CAs and corporate lawyers across Delhi, Mumbai, and Bangalore. Their experiences were consistent: compliance work is tedious, time-consuming, and prone to human error. One CA from a Big Four firm admitted spending over 20 hours weekly just researching and interpreting various sections of the Act.
 
 Small businesses suffer the most. Without dedicated legal teams, many entrepreneurs either overpay for professional services or risk non-compliance. As one startup founder in Pune told me, "I'm building a tech product, not studying law. Yet I spend more time understanding compliance than developing my actual business."
-
-
-
-## Overview
-
-This blog post presents my Capstone Project for the 5-day Gen AI Intensive Course with Google (March 31 - April 4, 2025). The challenge was to apply at least three Generative AI (Gen AI) capabilities to a real-world use case, documented in a Kaggle Notebook, with optional blog and video components for bonus points. My project tackles a uniquely Indian challenge: making the Companies Act more accessible and actionable for Chartered Accountants (CAs) and businesses.
-
----
-
-## The Problem: Navigating the Vast Companies Act
-
-India’s Companies Act is a comprehensive legal document, spanning hundreds of sections, rules, and amendments. For Indian CAs and company secretaries, keeping up with the Act’s requirements, changes, and compliance nuances is a constant struggle. The current approach — relying on static PDFs, legal commentaries, and scattered online resources — is time-consuming and error-prone. This can lead to missed deadlines, compliance issues, and ultimately, financial or reputational damage for companies.
-
-**Key pain points:**
-- Difficulty searching for relevant sections and rules quickly.
-- Lack of contextual explanations or practical guidance.
-- High barrier for small businesses and startups to stay compliant.
-
----
 
 ## The Solution: Gen AI-Powered Companies Act Assistant
 
