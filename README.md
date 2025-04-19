@@ -25,8 +25,8 @@ Currently, Indian professionals tackle this challenge through:
 3. **Scattered online forums** where advice varies in quality and accuracy
 4. **PDF searches** that return hundreds of irrelevant results
 5. **Consultations with specialists** that cost thousands of rupees per hour
-
-I spoke with 15 CAs and corporate lawyers across Delhi, Mumbai, and Bangalore. Their experiences were consistent: compliance work is tedious, time-consuming, and prone to human error. One CA from a Big Four firm admitted spending over 20 hours weekly just researching and interpreting various sections of the Act.
+ 
+One CA from a Big Four firm admitted spending over 20 hours weekly just researching and interpreting various sections of the Act.
 
 Small businesses suffer the most. Without dedicated legal teams, many entrepreneurs either overpay for professional services or risk non-compliance. As one startup founder in Pune told me, "I'm building a tech product, not studying law. Yet I spend more time understanding compliance than developing my actual business."
 
