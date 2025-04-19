@@ -56,7 +56,7 @@ The solution integrates at least three Gen AI capabilities covered in the course
 
 ## Implementation Details
 
-The assistant is implemented as an interactive Jupyter Notebook using Python, the OpenAI API (for LLMs), and vector search libraries like FAISS or ChromaDB. The Companies Act text is chunked and indexed to allow efficient semantic retrieval.
+The assistant is implemented as an interactive Jupyter Notebook using Python, the Gemini 2.0 (for LLMs), and vector search libraries like FAISS or ChromaDB. The Companies Act text is chunked semantically and indexed to allow efficient semantic retrieval.
 
 ## Limitations & Future Directions
 
@@ -80,7 +80,7 @@ By leveraging Gen AI, this project aims to democratize access to legal complianc
 
 ## Try It Yourself
 
-Check out the [Kaggle Notebook](#) for code, demos, and to interact with the Companies Act Assistant yourself!
+Check out the [Kaggle Notebook](#https://www.kaggle.com/code/kingchanana/capstone-project?scriptVersionId=234828470) for code, demos, and to interact with the Companies Act Assistant yourself!
 
 ---
 
