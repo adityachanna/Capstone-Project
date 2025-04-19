@@ -38,6 +38,7 @@ My project leverages Gen AI to build an interactive assistant that demystifies t
 2. **Section Summarization:** The assistant can summarize lengthy sections into plain English, tailored for non-lawyers.
 3. **Compliance Checklists:** Generate step-by-step checklists for specific compliance actions (e.g., “Checklist for annual return filing”).
 4. **Document Retrieval:** Find relevant sections, schedules, or rules instantly using semantic and keyword search.
+![image](https://github.com/user-attachments/assets/411be36f-8ad1-42c6-9e24-526746539348)
 
 ---
 
