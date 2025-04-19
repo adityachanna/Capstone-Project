@@ -73,31 +73,6 @@ The solution integrates at least three Gen AI capabilities covered in the course
 
 The assistant is implemented as an interactive Jupyter Notebook using Python, the OpenAI API (for LLMs), and vector search libraries like FAISS or ChromaDB. The Companies Act text is chunked and indexed to allow efficient semantic retrieval.
 
-**Example code snippets:**
-
-python
-# Example: RAG-based answer generation
-query = "What is the process for appointing a director?"
-relevant_chunks = vector_search(query, companies_act_index)
-context = "\n".join(relevant_chunks)
-prompt = f"Using the following context from the Companies Act, answer the user's question:\n{context}\n\nQ: {query}\nA:"
-answer = openai_completion(prompt)
-print(answer)
-
-
-
-python
-# Example: Structured checklist output
-query = "Checklist for incorporating a private limited company"
-response = openai_completion(
-    f"Provide a JSON checklist with step-by-step actions for: {query}"
-)
-print(json.loads(response))
-
-
-
----
-
 ## Limitations & Future Directions
 
 **Limitations:**
